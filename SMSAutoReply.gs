@@ -93,7 +93,7 @@ function autoSMSResponder() {
 						break;
 
 						case "4":
-						case "piture":
+						case "picture":
 						case "cat":
 							sendReplyImage(messageFrom);
 						break;
